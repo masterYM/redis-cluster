@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-client/redis-client.iml" filepath="$PROJECT_DIR$/redis-client/redis-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-cluster/redis-cluster.iml" filepath="$PROJECT_DIR$/redis-cluster/redis-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-protocol/redis-protocol.iml" filepath="$PROJECT_DIR$/redis-protocol/redis-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rediscluster-client/rediscluster-client.iml" filepath="$PROJECT_DIR$/rediscluster-client/rediscluster-client.iml" />
+    </modules>
+  </component>
+</project>
