@@ -2,7 +2,6 @@ package com.jiagouedu;
 
 import redis.clients.jedis.Jedis;
 
-import java.util.concurrent.TimeUnit;
 
 public class RedisMonitor {
 

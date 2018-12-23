@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f82b17-e705-4b60-ad70-d3f99acb7523" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tlcache/tlcache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tlcache/tlcache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-client/redis-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-client/redis-client.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Hack.java" beforeDir="false" afterPath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Hack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/JedisApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/JedisApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/RedisMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/RedisMonitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/java/JedisClusterJavaStyleCrud.java" beforeDir="false" afterPath="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/java/JedisClusterJavaStyleCrud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/spring/JedisClusterSpringStyleCrud.java" beforeDir="false" afterPath="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/spring/JedisClusterSpringStyleCrud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/tlcache/TlCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/tlcache/TlCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-protocol/redis-protocol.iml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-protocol/redis-protocol.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rediscluster-client/rediscluster-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rediscluster-client/rediscluster-client.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,35 +45,38 @@
     <session id="736909121">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="class" value="2" />
+          <entry key="java" value="31" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="5" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="31" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="5" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="java" value="79" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="79" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -66,96 +85,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/tlcache/TlCache.java">
+        <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Hack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="270">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/JedisApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1170">
+              <caret line="120" column="47" lean-forward="true" selection-start-line="120" selection-start-column="47" selection-end-line="120" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1255#1256#0" expanded="true" />
-                <element signature="e#1316#1317#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/Command.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/IRedis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/jedis/JedisCluster.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/jedis/JedisClusterCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/jedis/JedisCommands.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/monitor/interceptor/MonitorInterceptor.java">
+        <entry file="file://$PROJECT_DIR$/redis-protocol/src/main/java/com/jiagouedu/protocol/Protocol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rediscluster-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="45" column="25" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redis-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="31" column="26" selection-start-line="31" selection-start-column="29" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="292">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -185,17 +148,18 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/duli/rediscluster/RedisCluster.java" />
-        <option value="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Hack.java" />
-        <option value="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/RedisMonitor.java" />
         <option value="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/java/JedisClusterJavaStyleCrud.java" />
         <option value="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/spring/JedisClusterSpringStyleCrud.java" />
-        <option value="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/JedisApi.java" />
         <option value="$PROJECT_DIR$/redis-client/pom.xml" />
         <option value="$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/tlcache/TlCache.java" />
         <option value="$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/jedis/JedisCluster.java" />
         <option value="$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/jedis/JedisClusterCommand.java" />
         <option value="$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/jedis/JedisCommands.java" />
         <option value="$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/monitor/interceptor/MonitorInterceptor.java" />
+        <option value="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/RedisMonitor.java" />
+        <option value="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Hack.java" />
+        <option value="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Test.java" />
+        <option value="$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/JedisApi.java" />
       </list>
     </option>
   </component>
@@ -229,12 +193,14 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-192" />
-    <option name="y" value="47" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -247,61 +213,81 @@
           <expand>
             <path>
               <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jiagouedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-protocol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-protocol" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-protocol" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flasher" type="462c0819:PsiDirectoryNode" />
+              <item name="jiagouedu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-protocol" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flasher" type="462c0819:PsiDirectoryNode" />
-              <item name="jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="jiagouedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-protocol" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flasher" type="462c0819:PsiDirectoryNode" />
-              <item name="monitor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="redis-cluster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tlcache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flasher" type="462c0819:PsiDirectoryNode" />
-              <item name="monitor" type="462c0819:PsiDirectoryNode" />
-              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="jiagouedu" type="462c0819:PsiDirectoryNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -312,10 +298,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545569514732" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545575619216" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Tlcache/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -334,9 +321,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hack">
-    <configuration name="Hack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiagouedu.Hack" />
+  <component name="RunManager" selected="JUnit.JedisApi.testString">
+    <configuration name="JedisApi.testExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="redis-client" />
       <extension name="coverage">
         <pattern>
@@ -344,19 +330,74 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.jiagouedu" />
+      <option name="MAIN_CLASS_NAME" value="com.jiagouedu.JedisApi" />
+      <option name="METHOD_NAME" value="testExists" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedisCluster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.duli.rediscluster.RedisCluster" />
-      <module name="redis-cluster" />
+    <configuration name="JedisApi.testPttl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.duli.rediscluster.*" />
+          <option name="PATTERN" value="com.jiagouedu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.jiagouedu" />
+      <option name="MAIN_CLASS_NAME" value="com.jiagouedu.JedisApi" />
+      <option name="METHOD_NAME" value="testPttl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisApi.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiagouedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiagouedu" />
+      <option name="MAIN_CLASS_NAME" value="com.jiagouedu.JedisApi" />
+      <option name="METHOD_NAME" value="testString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisApi.testTtl2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiagouedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiagouedu" />
+      <option name="MAIN_CLASS_NAME" value="com.jiagouedu.JedisApi" />
+      <option name="METHOD_NAME" value="testTtl2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisApi.testType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiagouedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiagouedu" />
+      <option name="MAIN_CLASS_NAME" value="com.jiagouedu.JedisApi" />
+      <option name="METHOD_NAME" value="testType" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -370,13 +411,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.RedisClusterApplication" />
-      <item itemvalue="Application.RedisCluster" />
-      <item itemvalue="Application.Hack" />
+      <item itemvalue="JUnit.JedisApi.testTtl2" />
+      <item itemvalue="JUnit.JedisApi.testPttl" />
+      <item itemvalue="JUnit.JedisApi.testType" />
+      <item itemvalue="JUnit.JedisApi.testExists" />
+      <item itemvalue="JUnit.JedisApi.testString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hack" />
-        <item itemvalue="Application.RedisCluster" />
+        <item itemvalue="JUnit.JedisApi.testString" />
+        <item itemvalue="JUnit.JedisApi.testExists" />
+        <item itemvalue="JUnit.JedisApi.testType" />
+        <item itemvalue="JUnit.JedisApi.testPttl" />
+        <item itemvalue="JUnit.JedisApi.testTtl2" />
       </list>
     </recent_temporary>
   </component>
@@ -391,18 +438,50 @@
       <option name="presentableId" value="Default" />
       <updated>1545463731619</updated>
       <workItem from="1545463737251" duration="3165000" />
-      <workItem from="1545554425765" duration="4841000" />
+      <workItem from="1545554425765" duration="6560000" />
+      <workItem from="1545571580134" duration="1952000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="JedisApi_testTtl - 2018.12.23 at 22h 32m 11s.xml">
+      <configuration name="JedisApi.testTtl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testTtl2 - 2018.12.23 at 22h 32m 20s.xml">
+      <configuration name="JedisApi.testTtl2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testTtl - 2018.12.23 at 22h 32m 25s.xml">
+      <configuration name="JedisApi.testTtl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testTtl2 - 2018.12.23 at 22h 32m 38s.xml">
+      <configuration name="JedisApi.testTtl2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testTtl2 - 2018.12.23 at 22h 32m 41s.xml">
+      <configuration name="JedisApi.testTtl2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testTtl2 - 2018.12.23 at 22h 32m 43s.xml">
+      <configuration name="JedisApi.testTtl2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testPttl - 2018.12.23 at 22h 33m 01s.xml">
+      <configuration name="JedisApi.testPttl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testType - 2018.12.23 at 22h 33m 16s.xml">
+      <configuration name="JedisApi.testType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testExists - 2018.12.23 at 22h 33m 25s.xml">
+      <configuration name="JedisApi.testExists" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisApi_testString - 2018.12.23 at 22h 33m 40s.xml">
+      <configuration name="JedisApi.testString" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8006000" />
+    <option name="totallyTimeSpent" value="11677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,7 +490,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.12374582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39464882" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -421,7 +500,7 @@
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.41248608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,7 +509,7 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,56 +519,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duli/rediscluster/RedisCluster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duli/rediscluster/RedisCluster.java" />
     <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/txt.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis-cluster/src/main/java/com/duli/rediscluster/RedisCluster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Hack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/RedisMonitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rediscluster-client/src/main/resources/application.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -515,16 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/JedisApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/redis-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -536,25 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="45" column="25" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/tlcache/TlCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1255#1256#0" expanded="true" />
-            <element signature="e#1316#1317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -595,8 +599,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/monitor/interceptor/MonitorInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tlcache/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="127" column="38" lean-forward="true" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rediscluster-client/src/main/java/com/jiagouedu/tlcache/TlCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tlcache/src/main/java/com/tl/flasher/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/HostAndPort.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-cluster/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-cluster/src/main/java/com/duli/rediscluster/RedisCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/RedisMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="e#301#484#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/Hack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-client/src/main/java/com/jiagouedu/JedisApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="120" column="47" lean-forward="true" selection-start-line="120" selection-start-column="47" selection-end-line="120" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-protocol/src/main/java/com/jiagouedu/protocol/Protocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>

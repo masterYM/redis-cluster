@@ -11,10 +11,5 @@ public class Hack {
       byte[] b=new byte[1024];
       accept.getInputStream().read(b);
       System.out.println(new String(b));
-
-
-
-
-
    }
 }

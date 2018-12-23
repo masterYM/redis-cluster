@@ -13,11 +13,11 @@ import java.util.Set;
 public class JedisApi {
     private static Jedis jedis;
     private static  final String KEY="20181212";
-    private static  final String VALUE="wukong";
+    private static  final String VALUE="snow";
 
     @Before
     public void setUp() throws Exception {
-        jedis = new Jedis("192.168.0.31", 6379);
+        jedis = new Jedis("localhost", 6379);
 
     }
 
@@ -27,10 +27,11 @@ public class JedisApi {
         System.out.println("清空数据："+jedis.flushDB());
         System.out.println("判断某个键是否存在："+jedis.exists("username"));
         System.out.println("新增<'username','zzh'>的键值对："+jedis.set("username", "zzh"));
+        System.out.println("新增<'username','zzh'>的键值对："+jedis.set("age", "18"));
         Set<String> keys = jedis.keys("*");
         System.out.println("系统中所有的键如下："+keys);
-        System.out.println("删除键password:"+jedis.del("username"));
         System.out.println("查看键username所存储的值的类型："+jedis.type("username"));
+        System.out.println("删除键password:"+jedis.del("username"));
     }
 
     /***
