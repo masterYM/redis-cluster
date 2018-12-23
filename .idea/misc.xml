@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/redis-protocol/pom.xml" />
         <option value="$PROJECT_DIR$/rediscluster-client/pom.xml" />
         <option value="$PROJECT_DIR$/redis-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/Tlcache/pom.xml" />
       </list>
     </option>
   </component>
