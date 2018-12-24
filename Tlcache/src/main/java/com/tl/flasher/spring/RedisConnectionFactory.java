@@ -6,24 +6,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import redis.clients.jedis.Jedis;
 
-/*
- * ━━━━━━如来保佑━━━━━━
- * 　　　┏┓　　　┏┓
- * 　　┏┛┻━━━┛┻┓
- * 　　┃　　　━　　　┃
- * 　　┃　┳┛　┗┳　┃
- * 　　┃　　　┻　　　┃
- * 　　┗━┓　　　┏━┛
- * 　　　　┃　　　┗━━━┓
- * 　　　　┃　　　　　　　┣┓
- * 　　　　┃　　　　　　　┏┛
- * 　　　　┗┓┓┏━┳┓┏┛
- * 　　　　　┗┻┛　┗┻┛
- * ━━━━━━永无BUG━━━━━━
- * 图灵学院悟空老师
- * www.jiagouedu.com
- * 悟空老师QQ：245553999
- */
 public class RedisConnectionFactory implements IRedisConnection {
     private static final Logger LOGGER = LoggerFactory.getLogger(RedisConnectionFactory.class);
 

@@ -26,24 +26,6 @@ import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
-/*
- * ━━━━━━如来保佑━━━━━━
- * 　　　┏┓　　　┏┓
- * 　　┏┛┻━━━┛┻┓
- * 　　┃　　　━　　　┃
- * 　　┃　┳┛　┗┳　┃
- * 　　┃　　　┻　　　┃
- * 　　┗━┓　　　┏━┛
- * 　　　　┃　　　┗━━━┓
- * 　　　　┃　　　　　　　┣┓
- * 　　　　┃　　　　　　　┏┛
- * 　　　　┗┓┓┏━┳┓┏┛
- * 　　　　　┗┻┛　┗┻┛
- * ━━━━━━永无BUG━━━━━━
- * 图灵学院-悟空老师
- * www.jiagouedu.com
- * 悟空老师QQ：245553999
- */
 public class HttpUtil {
     private static final Logger logger = Logger.getLogger(HttpUtil.class);
 

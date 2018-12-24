@@ -5,24 +5,6 @@ import com.tl.flasher.monitor.job.MonitorExecutorJob;
 import java.util.Map;
 import java.util.concurrent.*;
 
-/*
- * ━━━━━━如来保佑━━━━━━
- * 　　　┏┓　　　┏┓
- * 　　┏┛┻━━━┛┻┓
- * 　　┃　　　━　　　┃
- * 　　┃　┳┛　┗┳　┃
- * 　　┃　　　┻　　　┃
- * 　　┗━┓　　　┏━┛
- * 　　　　┃　　　┗━━━┓
- * 　　　　┃　　　　　　　┣┓
- * 　　　　┃　　　　　　　┏┛
- * 　　　　┗┓┓┏━┳┓┏┛
- * 　　　　　┗┻┛　┗┻┛
- * ━━━━━━永无BUG━━━━━━
- * 图灵学院-悟空老师
- * www.jiagouedu.com
- * 悟空老师QQ：245553999
- */
 public class ScheduledExecutor implements ScheduledService {
     private ScheduledExecutorService service = Executors.newScheduledThreadPool(2);
 

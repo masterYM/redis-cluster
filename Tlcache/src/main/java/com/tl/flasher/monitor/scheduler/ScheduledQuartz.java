@@ -7,24 +7,6 @@ import org.quartz.impl.StdSchedulerFactory;
 import java.util.Map;
 import java.util.Set;
 
-/*
- * ━━━━━━如来保佑━━━━━━
- * 　　　┏┓　　　┏┓
- * 　　┏┛┻━━━┛┻┓
- * 　　┃　　　━　　　┃
- * 　　┃　┳┛　┗┳　┃
- * 　　┃　　　┻　　　┃
- * 　　┗━┓　　　┏━┛
- * 　　　　┃　　　┗━━━┓
- * 　　　　┃　　　　　　　┣┓
- * 　　　　┃　　　　　　　┏┛
- * 　　　　┗┓┓┏━┳┓┏┛
- * 　　　　　┗┻┛　┗┻┛
- * ━━━━━━永无BUG━━━━━━
- * 图灵学院-悟空老师
- * www.jiagouedu.com
- * 悟空老师QQ：245553999
- */
 public class ScheduledQuartz implements ScheduledService {
     private Scheduler sch = null;
     private String jobIdentity = "Quartz-Flasher-Monitor";

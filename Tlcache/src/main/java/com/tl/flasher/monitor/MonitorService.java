@@ -23,24 +23,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Map;
 
-/*
- * ━━━━━━如来保佑━━━━━━
- * 　　　┏┓　　　┏┓
- * 　　┏┛┻━━━┛┻┓
- * 　　┃　　　━　　　┃
- * 　　┃　┳┛　┗┳　┃
- * 　　┃　　　┻　　　┃
- * 　　┗━┓　　　┏━┛
- * 　　　　┃　　　┗━━━┓
- * 　　　　┃　　　　　　　┣┓
- * 　　　　┃　　　　　　　┏┛
- * 　　　　┗┓┓┏━┳┓┏┛
- * 　　　　　┗┻┛　┗┻┛
- * ━━━━━━永无BUG━━━━━━
- * 图灵学院-悟空老师
- * www.jiagouedu.com
- * 悟空老师QQ：245553999
- */
 public class MonitorService extends HttpServlet implements InitializingBean, DisposableBean {
     private static final Logger LOGGER = LoggerFactory.getLogger(MonitorService.class);
 
